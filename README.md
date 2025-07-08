@@ -26,8 +26,6 @@
 
 ![](https://github.com/inzamamulDU/SpecXNet/blob/c214d2df8cc92e0c7c67fb952245d1d0687cf1a3/assets/SpecXNet.jpg)
 
-## Main Results
-### Results on ImageNet
 
 ## Quick starts
 ### Requirements
@@ -56,5 +54,5 @@ To train a model, run [main.py](main.py) with the desired model architecture and
 If you find this work or code is helpful in your research, please cite:
 ````
 
-}
+
 ````
