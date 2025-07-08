@@ -1,4 +1,30 @@
+<h5 align="center"><strong><a href="https://www2025.thewebconf.org/short-papers">Accepted at ACM Multimedia 2025, Dublin, Ireland</a></strong></h4>
 
+<h3 align="center"><strong>SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection
+  <a href="assets/SpecGuard_ICCV_2025.pdf" target="_blank"> [Paper]</a>
+</strong></h3>
+
+<h6 align="center">
+  Inzamamul Aalm<sup>
+    <a href="" target="_blank">
+      <img src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" alt="Google Scholar" width="14">
+    </a>
+  </sup>,
+  Md Tanvir Islam<sup>
+    <a href="https://scholar.google.com/citations?user=UvINe-sAAAAJ&hl=en" target="_blank">
+      <img src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" alt="Google Scholar" width="14">
+    </a>
+  </sup>,
+  Simon S. Woo<sup>*, <a href="https://scholar.google.com/citations?user=mHnj60cAAAAJ&hl=en" target="_blank">
+      <img src="https://images.icon-icons.com/2108/PNG/512/google_scholar_icon_130918.png" alt="Google Scholar" width="14">
+    </a></sup>
+</h6>
+
+<h6 align="center">| Sungkyunkwan University, Republic of Korea | *Corresponding Author |</h6>
+<hr>
+
+
+![](https://raw.githubusercontent.com/tanvirnwu/SpecGuard_ICCV_2025/refs/heads/main/assets/SpecGuard.jpg)
 
 ## Main Results
 ### Results on ImageNet
