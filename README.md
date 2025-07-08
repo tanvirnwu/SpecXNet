@@ -24,7 +24,7 @@
 <hr>
 
 
-![](https://raw.githubusercontent.com/tanvirnwu/SpecGuard_ICCV_2025/refs/heads/main/assets/SpecGuard.jpg)
+![](https://github.com/inzamamulDU/SpecXNet/blob/c214d2df8cc92e0c7c67fb952245d1d0687cf1a3/assets/SpecXNet.jpg)
 
 ## Main Results
 ### Results on ImageNet
