@@ -49,6 +49,17 @@ To train a model, run [main.py](main.py) with the desired model architecture and
 ## Citation
 If you find this work or code is helpful in your research, please cite:
 ````
-
+@inproceedings{10.1145/3746027.3755707,
+author = {Alam, Inzamamul and Islam, Md Tanvir and Woo, Simon S.},
+title = {SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+doi = {10.1145/3746027.3755707},
+pages = {11667–11676},
+numpages = {10},
+location = {Dublin, Ireland},
+series = {MM '25}
+}
 
 ````
